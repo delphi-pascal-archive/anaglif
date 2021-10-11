@@ -1,0 +1,24 @@
+pa 46,-33,63
+ce 2,-89,123
+pa:ce
+bf -8,87,135
+dq -52,31,195
+bf:dq
+pb -4,44,53
+af 70,44,109
+pb:af
+pa:pb:bf:af:pa
+cd -76,-46,150
+eq -2,-46,205
+cd:eq
+ce:cd:dq:eq:ce
+pc -46,-38,62
+bd -80,36,106
+pc:bd
+pb:pc:cd:bd:pb
+ae 74,-38,62
+fq 40,36,196
+ae:fq
+af:ae:eq:fq:af
+pc:ce:ae:pa:pc
+bd:dq:fq:bf:bd
